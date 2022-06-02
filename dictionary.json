@@ -1,0 +1,2520 @@
+{
+	"aasa": [{
+		"pos": ["n."],
+		"alt_spell": [],
+		"meaning": "sea lettuce (a kind of green laver)"
+		}],
+	"abaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older sister",
+		"synonym": [["angwaa"], ["‘mmii"]]
+        }],
+	"-abiin": [{
+        "pos": ["suff."],
+        "alt_spell": [],
+        "meaning": "[politeness marker]",
+		"synonym": [["-ibiin"]]
+        }],
+	"acha": [{
+        "pos": ["adv."],
+        "alt_spell": ["achaa"],
+        "meaning": "tomorrow"
+        }],
+	"afii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older brother",
+		"synonym": [["appii"], ["yatchii"]]
+        }],
+	"ai": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "indicates slight surprise or question"
+        }],
+	"aibiin": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "[inanimate] there is/are [polite form of an]",
+		"synonym": [["an", 2]]
+        }],
+    "aibiran": [{
+        "pos": ["cop."],
+        "alt_spell": [],
+        "meaning": "is not [polite negative present of yan]",
+		"synonym": [["yan"], ["aran"]]
+        }],
+    "ama": [{
+        "pos": ["pron. dem."],
+        "alt_spell": [],
+        "meaning": "there [distant]; over there"
+        }],
+    "Amirika": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "the United States of America"
+        }],
+    "ammaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "mother",
+		"synonym": [["ayaa"]]
+        }],
+    "ammuchi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "rice cake stuffed with bean jam"
+        }],
+    "an": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "so"
+        },
+		{
+		"pos": ["vi."],
+		"alt_spell": [],
+		"meaning": "[inanimate] to be; exist, to be located",
+		"synonym": [["aibiin"], ["neen"]]
+		}],
+    "anda": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "oil"
+        }],
+    "andaagii": [{
+        "pos": ["n."],
+        "alt_spell": ["andagii"],
+        "meaning": "deep-fried food"
+        }],
+    "angwaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older sister",
+		"synonym": [["abaa"], ["‘mmii"]]
+        }],
+    "anshee": [{
+        "pos": ["conj."],
+        "alt_spell": [],
+        "meaning": "and; and then; if that’s the case"
+        }],
+    "anu": [{
+        "pos": ["pron. dem."],
+        "alt_spell": [],
+        "meaning": "that X [distant]",
+		"synonym": [["aree"], ["ari"]]
+        }],
+    "appii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older brother",
+		"synonym": [["afii"], ["yatchii"]]
+        }],
+    "Aragushiku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Aragusuku"
+        }],
+    "arain": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to wash"
+        }],
+    "aran": [{
+        "pos": ["cop."],
+        "alt_spell": [],
+        "meaning": "is not [casual negative present of yan]",
+		"synonym": [["yan"], ["aibiran"]]
+        }],
+    "aree": [{
+        "pos": ["pron. dem.", "part."],
+        "alt_spell": [],
+        "meaning": "that one over there is [distant]",
+		"synonym": [["anu"], ["ari"]]
+        }],
+    "ari": [{
+        "pos": ["pron. dem.", "pron."],
+        "alt_spell": [],
+        "meaning": "that [distant]; that one over there. he/she [distant]; that person over there",
+		"synonym": [["aree"], ["anu"]]
+        }],
+    "ashibun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to play, to hang out (e.g. with friends)"
+        }],
+    "atchun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to walk"
+        }],
+    "atukara": [{
+        "pos": ["n.", "part."],
+        "alt_spell": [],
+        "meaning": "later"
+        }],
+    "ayaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "mother",
+		"synonym": [["ammaa"]]
+        }],
+    "aza": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "unit of administrative divisions"
+        }],
+    
+	"banshiruu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "guava"
+        }],
+    "basanai": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "banana fruit"
+        }],
+    "basu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bus"
+        }],
+    "biiru": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "beer"
+        }],
+    "bira": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "welsh onion"
+        }],
+    "Burajiru": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Brazil"
+        }],
+    "-busaibiin": [{
+        "pos": ["aux.", "part."],
+        "alt_spell": [],
+        "meaning": "want to [polite]",
+		"synonym": [["-busan"]]
+        }],
+    "-busan": [{
+        "pos": ["aux."],
+        "alt_spell": [],
+        "meaning": "want to",
+		"synonym": [["-busaibiin"]]
+        }],
+		
+    "chaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tea"
+        }],
+    "chaachaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "father",
+		"synonym": [["suu"], ["taarii"]]
+        }],
+    "champuruu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "stir-fried dish with some meat and a variety of vegetables"
+        }],
+    "chassa": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "how much"
+        }],
+    "chiburu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "head"
+        }],
+    "chichun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to listen to; to hear"
+        }],
+    "chideekuni": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "carrot"
+        }],
+    "chiin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to wear"
+        },
+		{
+		"pos": ["vt."],
+		"alt_spell": [],
+		"meaning": "to cut"
+		}],
+    "chikain": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to use"
+        }],
+    "chimbin": [{
+        "pos": ["n."],
+        "alt_spell": ["chimpin"],
+        "meaning": "Okinawan style rolled crêpe"
+        }],
+    "chimi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "finger/toe nails",
+		"synonym": [["chimisachi"]]
+        }],
+    "chimisachi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tips of finger nails",
+		"synonym": [["chimi"]]
+        }],
+    "chimu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "heart, liver"
+        }],
+    "Chinin": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Chinen"
+        }],
+    "chinkwaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "pumpkin"
+        }],
+    "chinsukoo": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan style short bread"
+        }],
+    "chiribira": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "garlic chives, leek"
+        }],
+    "chisana": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "red leaf lettuce; sunny lettuce"
+        }],
+    "choodee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "siblings"
+        }],
+    "chu-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "a, one, a single of X",
+		"synonym": [["chui"]]
+        }],
+    "chui": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "one person (of)",
+		"synonym": [["chu-"]]
+        }],
+    "chukuin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to make, to cook, to fix (food)"
+        }],
+    "churasan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "beautiful, pretty"
+        }],
+    "chuun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to come",
+		"synonym": [["kuuwa"]]
+        }],
+		
+    "daigaku": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "university, college"
+        }],
+    "Dakidun": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Taketomi"
+        }],
+    "datchoo": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Allium Chinese’ (a kind of scallion)"
+        }],
+    "-deebiru": [{
+        "pos": ["cop."],
+        "alt_spell": [],
+        "meaning": "to be [honorific]",
+		"synonym": [["yan"], ["an", 2]]
+        }],
+    "deekuni": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "radish, daikon"
+        }],
+    "dikka": [{
+        "pos": ["interj."],
+        "alt_spell": ["rikka"],
+        "meaning": "Let’s... [expression denoting an urge to collective action]"
+        }],
+    "-doo": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "[affective particle]",
+		"synonym": [["-sa"], ["-du"]]
+        }],
+    "-du": [{
+        "pos": ["part."],
+        "alt_spell": ["-ru"],
+        "meaning": "[affective particle]"
+        }],
+    "ee": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "Hey! Hey, you!"
+        }],
+    "eema": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "distance, interval"
+        }],
+    "eesachi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "greeting"
+        }],
+    "eisaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan group bon dance"
+        }],
+    "-en": [{
+        "pos": ["suff."],
+        "alt_spell": [],
+        "meaning": "yen"
+        }],
+    "faa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "leaf"
+        }],
+    "faafuji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "grandparents"
+        }],
+    "fee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fly"
+        },
+		{
+		"pos": ["n."],
+		"alt_spell": [],
+		"meaning": "ashes"
+		}],
+    "fifachi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "a kind of pepper"
+        }],
+    "fii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fire"
+        }],
+    "Fija": [{
+        "pos": ["n.", "name"],
+        "alt_spell": [],
+        "meaning": "Higa",
+		"synonym": [["Higa"]]
+        }],
+    "fukuru": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bag"
+        }],
+    "funi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "boat, ship"
+        }],
+    "fuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "dried wheat gluten"
+        },
+		{
+		"pos": ["interj."],
+		"alt_spell": [],
+		"meaning": "Yes? [in response to someone calling]",
+		"synonym": [["hii", 2], ["nn"]]
+		}],
+    "fuuchibaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "mugwort; wormwood"
+        }],
+    "fuurinnaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "spinach"
+        }],
+    "fuuru": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "pig toilet"
+        }],
+    "fuya": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "shoes"
+        }],
+
+    "-ga": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "[subject marker]"
+        },
+		{
+		"pos": ["part."],
+		"alt_spell": [],
+		"meaning": "wh-question sentence ending",
+		"synonym": [["-gayaa"]]
+		}],
+    "gakkoo": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "school"
+        }],
+    "gakushii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "student"
+        }],
+    "ganchoo": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "eye glasses"
+        }],
+    "-gayaa": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "mild wh-question sentence ending",
+		"synonym": [["-ga", 2]]
+        }],
+    "gee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "harm, rejection"
+        }],
+    "go-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "five X, the fifth X"
+        }],
+    "go-hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "five hundreds"
+        }],
+    "gooyaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bitter melon"
+        }],
+    "gosei": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fifth generation"
+        }],
+    "gumboo": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "burdock"
+        }],
+    "gunin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "five people (of)"
+        }],
+    "gurukun": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "generic term for fish belonging to the Caesio family; banana fish"
+        }],
+    "Gushichaa": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Gushikawa"
+        }],
+    "-gutu": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "yutasarugutu unigeesabira (exp.)"
+        }],
+		
+    "haa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tooth"
+        }],
+    "haai": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "needle"
+        }],
+    "haamee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "old woman, grandmother",
+		"synonym": [["tammee"], ["hanshii"], ["‘mmee"], ["paapaa"]]
+        }],
+    "hachinin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "eight people (of)"
+        }],
+    "hajiin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to take off (kimono)"
+        }],
+    "hajimiti": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "hajimiti wuganabira, hajimiti yaibiin (exp.)",
+		"synonym": [["yaibiin"]]
+        }],
+    "haku": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "box"
+        }],
+    "hana": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "flower"
+        }],
+    "hanshii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "old woman, grandmother (also term of address)",
+		"synonym": [["haamee"], ["‘mmee"], ["paapaa"]]
+        }],
+    "harasun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to sail (a boat)"
+        }],
+    "haruatchaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "farmer"
+        }],
+    "hatarachun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to work"
+        }],
+    "Hatiruma": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Hateruma"
+        }],
+    "Hatuma": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Hatoma"
+        }],
+    "Hawai": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Hawaii"
+        }],
+    "Higa": [{
+        "pos": ["n.", "name"],
+        "alt_spell": [],
+        "meaning": "Fija",
+		"synonym": [["Fija"]]
+        }],
+    "hii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "day"
+        },
+		{
+		"pos": ["interj."],
+		"alt_spell": [],
+		"meaning": "Yes? [in response to someone calling]",
+		"synonym": [["fuu", 2],  ["nn"]]
+		}],
+    "hiru": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "garlic"
+        }],
+    "hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "a hundred"
+        }],
+    "hyaku-en": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "100 yen"
+        }],
+
+    "ibi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "shrimp, lobster"
+        }],
+    "-ibiin": [{
+        "pos": ["suff."],
+        "alt_spell": [],
+        "meaning": "[politeness marker]",
+		"synonym": [["-abiin"]]
+        }],
+    "icha": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "squid"
+        }],
+    "ichichi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "five"
+        }],
+    "Ichima": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Ikema"
+        }],
+    "Ichuman": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Itoman"
+        }],
+    "ichun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to go"
+        }],
+    "ichutaa": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "for a while",
+		"synonym": [["ittuchi"]]
+        }],
+    "ii": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "Yes [casual]",
+		"synonym": [["uu"]]
+        }],
+    "iibi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "finger(s)"
+        }],
+    "iin": [{
+        "pos": ["vt."],
+        "alt_spell": ["‘yun"],
+        "meaning": "to say"
+        },
+		{
+		"pos": ["vi."],
+		"alt_spell": [],
+		"meaning": "to go in",
+		"synonym": [["ichun"]]
+		}],
+    "iina": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "already"
+        }],
+    "ikutai": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "how many"
+        }],
+    "in": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "dog"
+        }],
+    "ippee": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "very, extremely"
+        }],
+    "Irabu": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Irabu"
+        }],
+    "irabuchaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "generic term for fish belonging to the Scaridae family"
+        }],
+    "irabun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to choose"
+        }],
+    "irichaa": [{
+        "pos": ["n."],
+        "alt_spell": ["irichii"],
+        "meaning": "dish fried in oil"
+        }],
+    "Iriumuti": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Iriomote"
+        }],
+    "isa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "doctor"
+        }],
+    "ishi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "stone"
+        }],
+    "Ishichaa": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Ishikawa"
+        }],
+    "Ishigachi": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Ishigaki"
+        }],
+    "issei": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "first generation"
+        }],
+    "ittaa": [{
+        "pos": ["pron."],
+        "alt_spell": [],
+        "meaning": "you (plural)"
+        }],
+    "ittuchi": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "for a while; a short time",
+		"synonym": [["ichutaa"]]
+        }],
+    "iyu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fish"
+        }],
+		
+    "jaa": [{
+        "pos": ["n."],
+        "alt_spell": ["zaa"],
+        "meaning": "room, space"
+        }],
+    "jin": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "money"
+        }],
+    "Jinoon": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Ginowan"
+        }],
+    "jootooyan": [{
+        "pos": ["adj."],
+        "alt_spell": ["jootuuyan"],
+        "meaning": "being in excellent quality"
+        }],
+    "juugo": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "fifteen"
+        }],
+    "juuichi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "eleven"
+        }],
+    "juuni": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "twelve"
+        }],
+    "juunin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "ten people (of)"
+        }],
+    "juusan": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "thirteen"
+        }],
+    "juushi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "fourteen"
+        }],
+		
+    "kaabuchii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "thick-skinned green mandarine"
+        }],
+    "kaara": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "roof tile"
+        }],
+    "kaasa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "broad leaf"
+        }],
+    "kaasa-muuchii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan style steamed rice cake wrapped with shell ginger leaves",
+		"synonym": [["muuchii"]]
+        }],
+    "kachun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to write"
+        }],
+    "kachuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bonito fish"
+        }],
+    "-kai": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "to; toward; for [directional case marker]",
+		"synonym": [["-nkai", 2]]
+        }],
+    "kain": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to borrow"
+        }],
+    "kamun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to eat"
+        }],
+    "kandabaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sweet potato leaves"
+        }],
+    "kara": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "emptiness; vacancy"
+        }],
+    "-kara": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "from [ablative case marker]"
+        }],
+    "kashitira": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "castella sponge cake"
+        }],
+    "Katchin": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Katsuren"
+        }],
+    "Kenchoo": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Prefectural government building"
+        }],
+    "Kokusaidoor": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Kokusai Street"
+        }],
+    "kooin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to buy"
+        }],
+    "kooraa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "coke"
+        }],
+    "kooreegusu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "red chili pepper"
+        }],
+    "Kubama": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Kohama"
+        }],
+    "kubushimi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "cuttlefish"
+        }],
+    "kuganii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "small thin-skinned mandarine orange"
+        }],
+    "kukunuchi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "nine"
+        }],
+    "kuma": [{
+        "pos": ["pron. dem."],
+        "alt_spell": [],
+        "meaning": "here"
+        }],
+    "kumarikaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "near here, vicinity, neighborhood"
+        }],
+    "kumi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "rice"
+        }],
+    "kumun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to put on (footwear)"
+        }],
+    "kunibu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "generic term for citrus"
+        }],
+    "kunin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "nine people (of)"
+        }],
+    "kunu": [{
+        "pos": ["pron. dem."],
+        "alt_spell": [],
+        "meaning": "this X",
+		"synonym": [["kuree"], ["kuri"]]
+        }],
+    "kuree": [{
+        "pos": ["pron. dem.", "part."],
+        "alt_spell": [],
+        "meaning": "this is; speaking of this [close to the speaker]",
+		"synonym": [["kunu"], ["kuri"]]
+        }],
+    "kuri": [{
+        "pos": ["pron. dem", "pron."],
+        "alt_spell": [],
+        "meaning": "this; he/she [near both speaker and listener]",
+		"synonym": [["kunu"], ["kuree"]]
+        }],
+    "Kurima": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Kurima"
+        }],
+    "kurujaataa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "(small chunks of) brown sugar"
+        }],
+    "Kurushima": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Kuroshima,"
+        }],
+    "kushi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "back (of a place), back (body)"
+        }],
+    "-kutu": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "because; so",
+		"synonym": [["-shiga"]]
+        }],
+    "kuubu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sea tangle; kelp (a type of seaweed)"
+        }],
+    "kuubu-irichaa": [{
+        "pos": ["n."],
+        "alt_spell": ["kuubu-irichii"],
+        "meaning": "stir-fried food with chopped kelp and pork as the main ingredients"
+        }],
+    "kuujun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to row, to sail"
+        }],
+    "kuuwa": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "Come. [imperative of chuun ‘to come’]",
+		"synonym": [["chuun"]]
+        }],
+    "kwa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "children"
+        }],
+    "kwaashi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "confection; sweets"
+        }],
+    "kwantuui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "watermelon",
+		"synonym": [["shiikwa"]]
+        }],
+    "kwatchii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "feast"
+        }],
+    "kyuu-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "nine X"
+        }],
+    "kyuu-hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "nine hundreds"
+        }],
+    "": [{
+        "pos": [""],
+        "alt_spell": [],
+        "meaning": ""
+        }],
+		
+    "maa": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "where",
+		"synonym": [["maa-nu mun"]]
+        }],
+    "maaminaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bean sprouts"
+        }],
+    "maa-nu mun": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "thing(s) from where",
+		"synonym": [["maa"], ["mun"]]
+        }],
+    "maasan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "tasty, delicious"
+        }],
+    "maasunii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "soup with fish flavored only with salt"
+        }],
+    "machun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to wait"
+        }],
+    "majun": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "together; along with (me)"
+        }],
+    "manjuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "steamed yeast bun-like cake with bean jam filling"
+        }],
+    "‘mbusaa": [{
+        "pos": ["n."],
+        "alt_spell": ["‘mbushii"],
+        "meaning": "miso stew",
+		"synonym": [["nnsu"]]
+        }],
+    "‘mbusan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "heavy"
+        }],
+    "meenachi": [{
+        "pos": ["adv."],
+        "alt_spell": ["meenichi"],
+        "meaning": "everyday"
+        }],
+    "mensheen": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to be in/at/on [honorific]"
+        }],
+    "-mi": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "yes/no question sentence ending",
+		"synonym": [["-naa"]]
+        }],
+    "mi-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "three X"
+        }],
+    "michi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "road; way; path"
+        }],
+    "miibai": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "generic term for fish belonging to the Epinephelidae family"
+        }],
+    "miichi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "three"
+        }],
+    "miji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "water"
+        }],
+    "mijun": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "anchovy, sardine"
+        }],
+    "mitchai": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "three people (of)"
+        }],
+    "miyati": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "guide, aim"
+        }],
+    "‘mma": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "horse"
+        },
+		{
+		"pos": ["pron. dem."],
+		"alt_spell": ["uma"],
+		"meaning": "there [near listener]"
+		}],
+    "‘mmaga": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "grandchildren"
+        }],
+    "‘mmee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "old woman, grandmother",
+		"synonym": [["hanshii"], ["haamee"], ["paapaa"]]
+        }],
+    "‘mmii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older sister",
+		"synonym": [["abaa"], ["angwaa"]]
+        }],
+    "‘mmu": [{
+        "pos": ["n."],
+        "alt_spell": ["uma"],
+        "meaning": "sweet potato"
+        }],
+    "‘mmukuji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sweet potato starch"
+        }],
+    "‘mmukuji-andagii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "deep-fried sweet potato starch cake"
+        }],
+    "muchi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "rice cake"
+        }],
+    "muchikasan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "difficult"
+        }],
+    "muchun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to have, to hold, to carry"
+        }],
+    "mun": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "thing(s)"
+        }],
+    "mura": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "village"
+        }],
+    "muribushi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "a myriad of stars (literary)"
+        }],
+    "musubun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to tie; knot; fasten"
+        }],
+    "Mutubu": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Motobu"
+        }],
+    "muuchi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "six"
+        }],
+    "muuchii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan style steamed rice cake wrapped with shell ginger leaves",
+		"synonym": [["kaasa-muuchii"]]
+        }],
+
+    "-n": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "also; too; as well as [inclusive focus marker]"
+        }],
+    "-naa": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "[yes/no confirmation question ending]",
+		"synonym": [["-mi"]]
+        }],
+    "naabeeraa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sponge gourd"
+        }],
+    "Naafa": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Naha"
+        }],
+    "Naaku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Miyako"
+        }],
+    "naashibi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "eggplant"
+        }],
+    "nacheeru": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "have delivered",
+		"synonym": [["nasun"]]
+        }],
+    "nagiin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to throw"
+        }],
+    "Nagu": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Nago"
+        }],
+    "nain": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to become, to be able",
+		"synonym": [["naran"]]
+        }],
+    "nama": [{
+        "pos": ["adv."],
+        "alt_spell": [],
+        "meaning": "now; soon; shortly",
+		"synonym": [["namaa"]]
+        }],
+    "namaa": [{
+        "pos": ["adv.", "part."],
+        "alt_spell": [],
+        "meaning": "right now, for now",
+		"synonym": [["nama"]]
+        }],
+    "nana-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "seven X"
+        }],
+    "nanachi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "seven"
+        }],
+    "nana-hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "seven hundreds"
+        }],
+    "Nanjoo-shi": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Nanjo city"
+        }],
+    "nantuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "steamed rice cake with nuts and spices"
+        }],
+    "naraasun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to teach"
+        }],
+    "naran": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "cannot, yumiya naran (exp.)",
+		"synonym": [["nain"]]
+        }],
+    "nasun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to deliver (a child)",
+		"synonym": [["nacheeru"]]
+        }],
+    "-ndi": [{
+        "pos": ["conj."],
+        "alt_spell": [],
+        "meaning": "...[so] that... (marks a quotation or citation)"
+        }],
+    "neen": [{
+        "pos": ["vi."],
+        "alt_spell": ["neeran"],
+        "meaning": "there is/are not [negative of an]",
+		"synonym": [["an"], ["neeyabiran"]]
+        }],
+    "neeyabiran": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "there is/are not [negative polite of an]",
+		"synonym": [["an"], ["neen"]]
+        }],
+    "ni-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "two X, the second X"
+        }],
+    "ni-hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "two hundreds"
+        }],
+    "nihyaku-en": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "200 yen"
+        }],
+    "niin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to stew, cook, boil"
+        }],
+    "ninufabushi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "the Pole Star"
+        }],
+    "nisei": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "second generation"
+        }],
+    "njasan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "bitter (taste)"
+        }],
+    "‘njasun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to put out"
+        }],
+    "-nkai": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "at; in; on; by [locative case marker]",
+		"synonym": [["-uti"]]
+        },
+		{
+		"pos": ["part."],
+		"alt_spell": [],
+		"meaning": "to; toward; for [directional case marker]",
+		"synonym": [["-kai"]]
+		}],
+    "nn": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "Yes? [in response to someone calling]",
+		"synonym": [["fuu", 2], ["hii", 2]]
+        }],
+    "nujun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to draw, pull; to take off (footwear)"
+        }],
+    "numun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to drink"
+        }],
+    "nuu": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "what",
+		"synonym": [["taa"]]
+        }],
+    "nuuga": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "why, why not"
+        }],
+
+    "obasan": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "middle-aged woman (Japanese loan)"
+        }],
+    "‘oho‘oho": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "Ahem (sound of coughing)"
+        }],
+    "ojisan": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "middle-aged man (Japanese loan)"
+        }],
+    "Okinawa-shi": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Okinawa City"
+        }],
+    "ooji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fan",
+		"synonym": [["oojun"]]
+        }],
+    "oojun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to fan",
+		"synonym": [["ooji"]]
+        }],
+    "ooee": [{
+        "pos": ["n."],
+        "alt_spell": ["ooyee"],
+        "meaning": "quarrel, fight"
+        }],
+    "Oshiro": [{
+        "pos": ["n. name"],
+        "alt_spell": [],
+        "meaning": "Ufugushiku",
+		"synonym": [["Ufugushiku"]]
+        }],
+
+    "paapaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "grandmother, old woman",
+		"synonym": [["haamee"], ["hanshii"], ["‘mmee"]]
+        }],
+    "papayaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "papaya"
+        }],
+    "Paretto Kumoji": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "a department store also known as RYUBO"
+        }],
+
+    "riichi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "lychee"
+        }],
+    "ruku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "six"
+        }],
+    "rukunin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "six people (of)"
+        }],
+    "Ruuchuu": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "the Ryukyu kingdom"
+        }],
+
+    "-sa": [{
+        "pos": ["part."],
+        "alt_spell": ["-sayaa"],
+        "meaning": "[affective particle]",
+		"synonym": [["-doo"], ["-du"]]
+        }],
+    "saataa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sugar"
+        }],
+    "saataa-andaagii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan donut"
+        }],
+    "saba": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sandals"
+        }],
+    "sachi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tip"
+        }],
+    "-sai": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "politeness marker (used by male speaker)",
+		"synonym": [["-tai"]]
+        }],
+    "san-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "three, the third X"
+        }],
+    "-san": [{
+        "pos": ["suff."],
+        "alt_spell": [],
+        "meaning": "Mr., Ms. (also added to the first name)"
+        }],
+    "sannin": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "shell ginger"
+        }],
+    "sannin-gaasa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "shell ginger leaf"
+        }],
+    "sansei": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "third generation"
+        }],
+    "sanshin": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan guitar-like instrument"
+        }],
+    "Sashichi": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Sashiki"
+        }],
+    "sheeku": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "carpenter"
+        }],
+    "shibi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tuna"
+        }],
+    "shibui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "winter melon; wax gourd"
+        }],
+    "shichinin": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "seven people (of)"
+        }],
+    "-shiga": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "but; however; yet [takes -kutu form]",
+		"synonym": [["-kutu"]]
+        }],
+    "shiibun": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "addition, premium, extra"
+        }],
+    "shiikwa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "watermelon",
+		"synonym": [["kwantuui"]]
+        }],
+    "shiikwaasaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "flat lemon; Taiwan tangerine (small thin-skinned green lime-like citrus, very sour)"
+        }],
+    "shijikayan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "quiet"
+        }],
+    "shima": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "island"
+        },
+		{
+		"pos": ["n."],
+		"alt_spell": [],
+		"meaning": "hometown"
+		}],
+    "shimu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "kitchen"
+        }],
+    "shimun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to be okay, to pass (refusal)"
+        }],
+    "shimbii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "flat rice cracker"
+        }],
+    "shinshii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "teacher"
+        }],
+    "shitiin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to throw away"
+        }],
+    "-ssaa": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "talking to oneself [affective particle]"
+        }],
+    "-sshi": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "per/for X [totalizing marker]"
+        }],
+    "Sui": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Shuri"
+        }],
+    "sumiin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to dye, color",
+		"synonym": [["sumiri"], ["sumiti", 2]]
+        }],
+    "sumiri": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "[imperative form of verb sumiin]",
+		"synonym": [["sumiin"]]
+        }],
+    "sumiti": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "dye"
+        },
+		{
+		"pos": ["vt."],
+		"alt_spell": [],
+		"meaning": "[ti-form of verb sumiin]",
+		"synonym": [["sumiin"]]
+		}],
+    "sumuchi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "book"
+        }],
+    "sun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to do"
+        }],
+    "sunui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "mozuku (a variety of edible seaweed)"
+        }],
+    "sururuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "slender sprat; a type of sprat fish"
+        }],
+    "suu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "father",
+		"synonym": [["chaachaa"], ["taarii"]]
+        }],
+
+    "ta-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "two X"
+        }],
+    "taa-nu mun": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "whose thing(s)",
+		"synonym": [["taa"], ["mun"]]
+        }],
+    "taa": [{
+        "pos": ["wh."],
+        "alt_spell": [],
+        "meaning": "who",
+		"synonym": [["taa-nu mun"], ["taa-tu"], ["nuu"]]
+        }],
+    "taachi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "two"
+        }],
+    "taarii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "father",
+		"synonym": [["chaachaa"], ["suu"]]
+        }],
+    "taa-tu": [{
+        "pos": ["wh.", "part."],
+        "alt_spell": [],
+        "meaning": "with who",
+		"synonym": [["taa"], ["-tu"]]
+        }],
+    "tabai": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bunch"
+        }],
+    "tachun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to stand"
+        }],
+    "tai": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "two people (of)"
+        }],
+    "-tai": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "politeness marker (used by female speaker)",
+		"synonym": [["-tai"]]
+        }],
+    "taku": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "octopus"
+        }],
+    "tamachisha": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "head lettuce"
+        }],
+    "Tamagushiku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Tamagusuku"
+        }],
+    "tamanaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "cabbage"
+        }],
+    "tammee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "grandfather, old man",
+		"synonym": [["usumee"], ["haamee"]]
+        }],
+    "-tan": [{
+        "pos": ["suff."],
+        "alt_spell": [],
+        "meaning": "past tense marker"
+        }],
+    "tankan": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "a kind of tangor (hybrid of tangerine and navel orange)"
+        }],
+    "Tannafa": [{
+        "pos": ["n. name."],
+        "alt_spell": [],
+        "meaning": "Tamanaha"
+        }],
+    "tannafakuruu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan style soft cookies"
+        }],
+    "Tarama": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Tarama"
+        }],
+    "tigami": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "letter"
+        }],
+    "tiganee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "help, assistance"
+        }],
+    "Timigushiku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Tomigusuku"
+        }],
+    "tin": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sky (literary)"
+        }],
+    "tinsagu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "touch-me-not flower"
+        }],
+    "toire": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "toilet, bathroom"
+        }],
+    "too": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "ready, enough"
+        }],
+    "toofu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "tofu"
+        }],
+    "-tu": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "and [listing]; with (someone)"
+        }],
+    "tui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "bird"
+        }],
+    "tuin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to take"
+        }],
+    "tunai": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "side"
+        }],
+    "tuu": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "ten"
+        }],
+
+    "Uchinaa": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Okinawa; Okinawa Main Island"
+        }],
+    "uchinaanchu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "an Okinawan person"
+        }],
+    "uchinaaguchi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "Okinawan language"
+        }],
+    "uchun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to put"
+        },
+		{
+		"pos": ["vt."],
+		"alt_spell": [],
+		"meaning": "to hit"
+		}],
+    "Ufugushiku": [{
+        "pos": ["n. name"],
+        "alt_spell": [],
+        "meaning": "Oshiro",
+		"synonym": [["Oshiro"]]
+        }],
+    "Ufujatu": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Ozato"
+        }],
+    "ukiin": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to get up"
+        }],
+    "ukusun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to wake someone up"
+        }],
+    "umiatchaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fisherman"
+        }],
+    "umuin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to think"
+        }],
+    "unchee": [{
+        "pos": ["n."],
+        "alt_spell": ["uncheebaa"],
+        "meaning": "water spinach"
+        }],
+    "unigee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "request"
+        }],
+    "unju": [{
+        "pos": ["pron."],
+        "alt_spell": [],
+        "meaning": "you [polite]",
+		"synonym": [["unju-ga"], ["‘yaa"]]
+        }],
+    "unju-ga": [{
+        "pos": ["pron."],
+        "alt_spell": ["unju-no"],
+        "meaning": "your [polite]",
+		"synonym": [["unju"]]
+        }],
+    "unu": [{
+        "pos": ["pron. dem."],
+        "alt_spell": [],
+        "meaning": "that X [near listener]",
+		"synonym": [["uree"], ["uri"]]
+        }],
+    "Urashii": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Urasoe"
+        }],
+    "uree": [{
+        "pos": ["pron. dem.", "part."],
+        "alt_spell": [],
+        "meaning": "that is; speaking of that [near listener]",
+		"synonym": [["unu"], ["uri"]]
+        }],
+    "uri": [{
+        "pos": ["pron. dem.", "pron."],
+        "alt_spell": [],
+        "meaning": "that [near listener]; he/she [near listener], that person",
+		"synonym": [["unu"], ["uree"]]
+        },
+		{
+		"pos": ["interj."],
+		"alt_spell": [],
+		"meaning": "here; here you go"
+		}],
+    "Uruku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Oroku"
+        }],
+    "Uruma-shi": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Uruma city"
+        }],
+    "ushi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "cattle; cow; bull; ox"
+        }],
+    "usumee": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "old man, grandfather",
+		"synonym": [["tammee"]]
+        }],
+    "-uti": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "in; on; at [locative case marker]",
+		"synonym": [["-nkai", 1]]
+        }],
+    "uttu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "younger siblings",
+		"synonym": [["wikiga uttu"], ["winagu uttu"]]
+        }],
+    "uu": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "Yes [polite]",
+		"synonym": [["ii"]]
+        }],
+    "uubi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "obi; sash; belt"
+        }],
+    "uuduui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "main street, boulevard"
+        }],
+    "uushi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "mortar, millstone"
+        }],
+    "uya": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "parent"
+        }],
+
+    "waa-nu mun": [{
+        "pos": ["pron.", "n."],
+        "alt_spell": [],
+        "meaning": "mine; my stuff",
+		"synonym": [["wan"], ["mun"]]
+        }],
+    "‘waa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "pig"
+        }],
+    "wakain": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to understand, to know"
+        }],
+    "wan": [{
+        "pos": ["pron."],
+        "alt_spell": ["waa"],
+        "meaning": "I; myself; self; me",
+		"synonym": [["wannee"], ["wannin"], ["waa-nu mun"]]
+        }],
+    "wannee": [{
+        "pos": ["pron.", "part."],
+        "alt_spell": [],
+        "meaning": "speaking of myself",
+		"synonym": [["wan"]]
+        }],
+    "wannin": [{
+        "pos": ["pron.", "part."],
+        "alt_spell": [],
+        "meaning": "I also, I am also",
+		"synonym": [["wan"]]
+        }],
+    "warain": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to laugh"
+        }],
+    "wassan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "bad"
+        }],
+    "wata": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "stomach"
+        }],
+    "wattaa": [{
+        "pos": ["pron."],
+        "alt_spell": [],
+        "meaning": "our"
+        }],
+    "‘wiijun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to swim"
+        }],
+    "wikiga uttu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "younger brother",
+		"synonym": [["uttu"]]
+        }],
+    "winagu uttu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "younger sister",
+        "synonym": [["uttu"]]		
+        }],
+    "wooji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "prince"
+        }],
+    "wudui": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "dance"
+        }],
+    "wuganun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to meet; see [honorific]"
+        }],
+    "wuibiin": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "[animate] there is/are… [polite of wun]",
+		"synonym": [["wun"]]
+        }],
+    "wuibiran": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "there is/are not… [negative polite of wun]",
+		"synonym": [["wun"]]
+        }],
+    "wun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "[animate] to exist, to have, to own; to be in/at/on; there is/are…",
+		"synonym": [["wuibiin"], ["wuran"], ["wuibiran"]]
+        }],
+    "wuran": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "there is/are not… [negative of wun]",
+		"synonym": [["wun"]]
+        }],
+    "wuu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "cord"
+        }],
+    "wuuji": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "sugar cane"
+        }],
+    "wuuwuu": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "No [polite]",
+		"synonym": [["yiiyii"]]
+        }],
+
+    "-ya": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "topic marker; speaking of X"
+        }],
+    "yaa": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "house"
+        }],
+    "-yaa": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "[affective particle]"
+        }],
+    "‘yaa": [{
+        "pos": ["pron."],
+        "alt_spell": [],
+        "meaning": "you [casual]",
+		"synonym": [["unju"]]
+        }],
+    "yaachi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "eight"
+        }],
+    "yaama": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "trap, snare"
+        }],
+    "‘yaa-nu mun": [{
+        "pos": ["pron.", "n."],
+        "alt_spell": [],
+        "meaning": "yours; your stuff",
+		"synonym": [["‘yaa"]]
+        }],
+    "yaaninju": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "family, family members"
+        }],
+    "yaibiin": [{
+        "pos": ["cop.", "suff."],
+        "alt_spell": [],
+        "meaning": "to be [polite]",
+		"synonym": [["yan"]]
+        }],
+    "-yaka": [{
+        "pos": ["part."],
+        "alt_spell": [],
+        "meaning": "[comparison marker], rather/better/more than..."
+        }],
+    "yama": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "the woods, forest"
+        }],
+    "yamatunchu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "a Japanese person"
+        }],
+    "Yambaru": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "northern part of Okinawa Main Island"
+        }],
+    "yamun": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to feel pain; ache; hurt"
+        }],
+    "yan": [{
+        "pos": ["cop."],
+        "alt_spell": [],
+        "meaning": "to be",
+		"synonym": [["yaibiin"], ["aran"], ["aibiran"]]
+        }],
+    "yasee": [{
+        "pos": ["n."],
+        "alt_spell": ["yashee"],
+        "meaning": "vegetables"
+        }],
+    "yashiga": [{
+        "pos": ["conj."],
+        "alt_spell": [],
+        "meaning": "but; nevertheless"
+        }],
+    "yassan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "cheap (cost)"
+        }],
+    "yatchii": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "older brother",
+		"synonym": [["afii"], ["appii"]]
+        }],
+    "Yeema": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Yaeyama"
+        }],
+    "yiikachi": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "painter"
+        }],
+    "yiin": [{
+        "pos": ["vi."],
+        "alt_spell": [],
+        "meaning": "to sit"
+        },
+		{
+		"pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to get, to obtain"		
+		}],
+    "yiiyii": [{
+        "pos": ["interj."],
+        "alt_spell": [],
+        "meaning": "no [casual]",
+		"synonym": [["wuuwuu"]]
+        }],
+    "yin": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "karma, fate"
+        }],
+    "yon-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "four X, the fourth X",
+		"synonym": [["yu-"]]
+        }],
+    "yon-hyaku": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "four hundreds"
+        }],
+    "yonsei": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "fourth generation"
+        }],
+    "yoofuku": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "(western) clothes"
+        }],
+    "yu-": [{
+        "pos": ["pref."],
+        "alt_spell": [],
+        "meaning": "four X",
+		"synonym": [["yon-"]]
+        }],
+    "yubun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to call"
+        }],
+    "yumariin": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "can read [potential form of yumun]",
+		"synonym": [["yumun"]]
+        }],
+    "yumiba": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "[conditional (literary) form of yumun]",
+		"synonym": [["yumun"]]
+        }],
+    "yumiya": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "yumiya naran (exp.)"
+        }],
+    "yumun": [{
+        "pos": ["vt."],
+        "alt_spell": [],
+        "meaning": "to count, to read"
+        }],
+    "Yunaguni": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Yonaguni"
+        }],
+    "Yunagushiku": [{
+        "pos": ["n. plc."],
+        "alt_spell": [],
+        "meaning": "Yonashiro"
+        }],
+    "yuru": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "night"
+        }],
+    "yushigutu": [{
+        "pos": ["n."],
+        "alt_spell": [],
+        "meaning": "teachings"
+        }],
+    "yutasan": [{
+        "pos": ["adj."],
+        "alt_spell": [],
+        "meaning": "well, yutasarugutu unigeesabira (exp.)"
+        }],
+    "yuttai": [{
+        "pos": ["n. count."],
+        "alt_spell": [],
+        "meaning": "four people"
+        }],
+    "yuuchi": [{
+        "pos": ["n. num."],
+        "alt_spell": [],
+        "meaning": "four"
+        }]
+}
