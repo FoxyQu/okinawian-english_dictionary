@@ -49,7 +49,7 @@
         "alt_spell": [],
         "meaning": "there [distant]; over there"
         }],
-    "Amirika": [{
+    "amirika": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "the United States of America"
@@ -109,7 +109,7 @@
         "meaning": "older brother",
 		"synonym": [["afii"], ["yatchii"]]
         }],
-    "Aragushiku": [{
+    "aragushiku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Aragusuku"
@@ -189,7 +189,7 @@
         "alt_spell": [],
         "meaning": "welsh onion"
         }],
-    "Burajiru": [{
+    "burajiru": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Brazil"
@@ -280,7 +280,7 @@
         "alt_spell": [],
         "meaning": "heart, liver"
         }],
-    "Chinin": [{
+    "chinin": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Chinen"
@@ -344,7 +344,7 @@
         "alt_spell": [],
         "meaning": "university, college"
         }],
-    "Dakidun": [{
+    "dakidun": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Taketomi"
@@ -436,7 +436,7 @@
         "alt_spell": [],
         "meaning": "fire"
         }],
-    "Fija": [{
+    "fija": [{
         "pos": ["n.", "name"],
         "alt_spell": [],
         "meaning": "Higa",
@@ -556,7 +556,7 @@
         "alt_spell": [],
         "meaning": "generic term for fish belonging to the Caesio family; banana fish"
         }],
-    "Gushichaa": [{
+    "gushichaa": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Gushikawa"
@@ -630,22 +630,22 @@
         "alt_spell": [],
         "meaning": "to work"
         }],
-    "Hatiruma": [{
+    "hatiruma": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Hateruma"
         }],
-    "Hatuma": [{
+    "hatuma": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Hatoma"
         }],
-    "Hawai": [{
+    "hawai": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Hawaii"
         }],
-    "Higa": [{
+    "higa": [{
         "pos": ["n.", "name"],
         "alt_spell": [],
         "meaning": "Fija",
@@ -699,12 +699,12 @@
         "alt_spell": [],
         "meaning": "five"
         }],
-    "Ichima": [{
+    "ichima": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Ikema"
         }],
-    "Ichuman": [{
+    "ichuman": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Itoman"
@@ -762,7 +762,7 @@
         "alt_spell": [],
         "meaning": "very, extremely"
         }],
-    "Irabu": [{
+    "irabu": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Irabu"
@@ -797,12 +797,12 @@
         "alt_spell": [],
         "meaning": "stone"
         }],
-    "Ishichaa": [{
+    "ishichaa": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Ishikawa"
         }],
-    "Ishigachi": [{
+    "ishigachi": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Ishigaki"
@@ -839,7 +839,7 @@
         "alt_spell": [],
         "meaning": "money"
         }],
-    "Jinoon": [{
+    "jinoon": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Ginowan"
@@ -947,17 +947,17 @@
         "alt_spell": [],
         "meaning": "castella sponge cake"
         }],
-    "Katchin": [{
+    "katchin": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Katsuren"
         }],
-    "Kenchoo": [{
+    "kenchoo": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Prefectural government building"
         }],
-    "Kokusaidoor": [{
+    "kokusaidoor": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Kokusai Street"
@@ -977,7 +977,7 @@
         "alt_spell": [],
         "meaning": "red chili pepper"
         }],
-    "Kubama": [{
+    "kubama": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Kohama"
@@ -1045,7 +1045,7 @@
         "meaning": "this; he/she [near both speaker and listener]",
 		"synonym": [["kunu"], ["kuree"]]
         }],
-    "Kurima": [{
+    "kurima": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Kurima"
@@ -1055,7 +1055,7 @@
         "alt_spell": [],
         "meaning": "(small chunks of) brown sugar"
         }],
-    "Kurushima": [{
+    "kurushima": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Kuroshima,"
@@ -1123,11 +1123,7 @@
         "alt_spell": [],
         "meaning": "nine hundreds"
         }],
-    "": [{
-        "pos": [""],
-        "alt_spell": [],
-        "meaning": ""
-        }],
+
 		
     "maa": [{
         "pos": ["wh."],
@@ -1315,7 +1311,7 @@
         "alt_spell": [],
         "meaning": "to tie; knot; fasten"
         }],
-    "Mutubu": [{
+    "mutubu": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Motobu"
@@ -1348,12 +1344,12 @@
         "alt_spell": [],
         "meaning": "sponge gourd"
         }],
-    "Naafa": [{
+    "naafa": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Naha"
         }],
-    "Naaku": [{
+    "naaku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Miyako"
@@ -1374,7 +1370,7 @@
         "alt_spell": [],
         "meaning": "to throw"
         }],
-    "Nagu": [{
+    "nagu": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Nago"
@@ -1412,7 +1408,7 @@
         "alt_spell": [],
         "meaning": "seven hundreds"
         }],
-    "Nanjoo-shi": [{
+    "nanjoo-shi": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Nanjo city"
@@ -1551,7 +1547,7 @@
         "alt_spell": [],
         "meaning": "middle-aged man (Japanese loan)"
         }],
-    "Okinawa-shi": [{
+    "okinawa-shi": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Okinawa City"
@@ -1573,7 +1569,7 @@
         "alt_spell": ["ooyee"],
         "meaning": "quarrel, fight"
         }],
-    "Oshiro": [{
+    "oshiro": [{
         "pos": ["n. name"],
         "alt_spell": [],
         "meaning": "Ufugushiku",
@@ -1591,7 +1587,7 @@
         "alt_spell": [],
         "meaning": "papaya"
         }],
-    "Paretto Kumoji": [{
+    "paretto kumoji": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "a department store also known as RYUBO"
@@ -1612,7 +1608,7 @@
         "alt_spell": [],
         "meaning": "six people (of)"
         }],
-    "Ruuchuu": [{
+    "ruuchuu": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "the Ryukyu kingdom"
@@ -1680,7 +1676,7 @@
         "alt_spell": [],
         "meaning": "Okinawan guitar-like instrument"
         }],
-    "Sashichi": [{
+    "sashichi": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Sashiki"
@@ -1777,7 +1773,7 @@
         "alt_spell": [],
         "meaning": "per/for X [totalizing marker]"
         }],
-    "Sui": [{
+    "sui": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Shuri"
@@ -1897,7 +1893,7 @@
         "alt_spell": [],
         "meaning": "head lettuce"
         }],
-    "Tamagushiku": [{
+    "tamagushiku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Tamagusuku"
@@ -1923,7 +1919,7 @@
         "alt_spell": [],
         "meaning": "a kind of tangor (hybrid of tangerine and navel orange)"
         }],
-    "Tannafa": [{
+    "tannafa": [{
         "pos": ["n. name."],
         "alt_spell": [],
         "meaning": "Tamanaha"
@@ -1933,7 +1929,7 @@
         "alt_spell": [],
         "meaning": "Okinawan style soft cookies"
         }],
-    "Tarama": [{
+    "tarama": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Tarama"
@@ -1948,7 +1944,7 @@
         "alt_spell": [],
         "meaning": "help, assistance"
         }],
-    "Timigushiku": [{
+    "timigushiku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Tomigusuku"
@@ -2004,7 +2000,7 @@
         "meaning": "ten"
         }],
 
-    "Uchinaa": [{
+    "uchinaa": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Okinawa; Okinawa Main Island"
@@ -2029,13 +2025,13 @@
 		"alt_spell": [],
 		"meaning": "to hit"
 		}],
-    "Ufugushiku": [{
+    "ufugushiku": [{
         "pos": ["n. name"],
         "alt_spell": [],
         "meaning": "Oshiro",
 		"synonym": [["Oshiro"]]
         }],
-    "Ufujatu": [{
+    "ufujatu": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Ozato"
@@ -2088,7 +2084,7 @@
         "meaning": "that X [near listener]",
 		"synonym": [["uree"], ["uri"]]
         }],
-    "Urashii": [{
+    "urashii": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Urasoe"
@@ -2110,12 +2106,12 @@
 		"alt_spell": [],
 		"meaning": "here; here you go"
 		}],
-    "Uruku": [{
+    "uruku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Oroku"
         }],
-    "Uruma-shi": [{
+    "uruma-shi": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Uruma city"
@@ -2360,7 +2356,7 @@
         "alt_spell": [],
         "meaning": "a Japanese person"
         }],
-    "Yambaru": [{
+    "yambaru": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "northern part of Okinawa Main Island"
@@ -2397,7 +2393,7 @@
         "meaning": "older brother",
 		"synonym": [["afii"], ["appii"]]
         }],
-    "Yeema": [{
+    "yeema": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Yaeyama"
@@ -2482,12 +2478,12 @@
         "alt_spell": [],
         "meaning": "to count, to read"
         }],
-    "Yunaguni": [{
+    "yunaguni": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Yonaguni"
         }],
-    "Yunagushiku": [{
+    "yunagushiku": [{
         "pos": ["n. plc."],
         "alt_spell": [],
         "meaning": "Yonashiro"
