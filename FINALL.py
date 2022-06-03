@@ -1,11 +1,12 @@
 import json
-from difflib import get_close_matches as g
+from difflib import get_close_matches
 from tkinter import *
 import tkinter.messagebox
 
-data=json.load(open("dictionary.json", encoding="utf-8"))
+data = json.load(open("dictionary.json", encoding="utf-8"))
 word_data = data.values()
 keys = data.keys()
+
 
 def iexit():
     res = messagebox.askyesno('Confirm', 'Do you want to exit?')
@@ -14,6 +15,8 @@ def iexit():
 
     else:
         pass
+
+
 def meaning():
 
     w = e1_value.get().lower()
@@ -66,7 +69,7 @@ def meaning():
             cnt += 1
 
     else:
-        real_list=g(w,keys,cutoff=0.8)
+        real_list = get_close_matches(w,keys,cutoff=0.8)
         if len(real_list) == 0:
             pass
         else:
@@ -86,33 +89,34 @@ def meaning():
                     t1.insert(END,"\n")
                     cnt += 1
 
+
 def meaning2():
     t1.delete(1.0,END)
     e1.delete(0,END)
 
-root=Tk()
+root = Tk()
 bg = PhotoImage(file = "benimo1.png")
 bg_label = Label(root, image=bg)
-bg_label.place(x=0, y=0, relwidth=1, relheight=1)
+bg_label.place(x = 0, y = 0, relwidth = 1, relheight = 1)
 root.title("Veliso.")
 root.attributes('-fullscreen', False)
 root.resizable(1, 1)
 
-header=Label(root, text="OKINAWAN-ENGLISH DICTIONARY.", font = ("Baskerville", 40), bg="#b4a7d6", fg="white")
+header = Label(root, text="OKINAWAN-ENGLISH DICTIONARY.", font = ("Baskerville", 40), bg="#b4a7d6", fg="white")
 header.pack(fill=X)
 
-label1=Label(root, text="Enter your word:", font = ("Baskerville", 20), bg= "#d9d2e9")
+label1 = Label(root, text = "Enter your word:", font = ("Baskerville", 20), bg = "#d9d2e9")
 label1.pack()
 
-e1_value=StringVar()
-e1=Entry(root, textvariable=e1_value, font=('Baskerville', 30, 'italic'))
+e1_value = StringVar()
+e1 = Entry(root, textvariable = e1_value, font = ('Baskerville', 30, 'italic'))
 e1.pack()
 
-button=Button(root, text="Meaning!", command=meaning, font = ("Baskerville", 20))
+button = Button(root, text ="Meaning!", command = meaning, font = ("Baskerville", 20))
 button.pack()
 
-t1=Text(root, font = ("Baskerville", 18))
-t1.pack(fill=X)
+t1 = Text(root, font = ("Baskerville", 18))
+t1.pack(fill = X)
 t1.insert(END, 'Hi, colleagues.')
 t1.insert(END, '\n')
 t1.insert(END, '\n')
@@ -130,10 +134,10 @@ t1.insert(END, '\n')
 t1.insert(END, '\n')
 t1.insert(END, 'Team Veliso - Vera, Liza, Sophia.')
 
-label2=Label(root, text="Press it for clearing screen.", font = ("Baskerville", 20), bg = "#d9d2e9")
+label2 = Label(root, text = "Press it for clearing screen.", font = ("Baskerville", 20), bg = "#d9d2e9")
 label2.pack()
 
-button2=Button(root,text="Clear Screen!", command=meaning2, font = ("Baskerville", 20))
+button2 = Button(root,text = "Clear Screen!", command = meaning2, font = ("Baskerville", 20))
 button2.pack()
 
 
